@@ -4,7 +4,7 @@
 
 html {
     background-color: #4a8ef6;
-    height: 200%;
+    height: 190%;
 }
 
 /* Navigation bar code */
@@ -169,7 +169,7 @@ h1 {
     font-size: 40px;
     color: white;
     font-weight: bold;
-    margin-top: 1110px;
+    margin-top: 170px;
     position: relative;
 }
 
@@ -178,7 +178,7 @@ h1 {
     height: 50px;
     width: 100%;
     position: absolute;
-    margin-top: 1111px;
+    margin-top: 170px;
 }
 
 .footer1 {
